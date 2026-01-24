@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|e:\\code\\c#\\expense splitter \u0026 budget manager\\esabm\\esabm\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\esabm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2979783A-26C0-424D-954B-5F6DBF2EF3BB}|ESABM\\ESABM.csproj|solutionrelative:esabm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form8.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form8.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form8.cs",
+              "RelativeToolTip": "ESABM\\Form8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:44:58.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form7.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form7.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form7.cs",
+              "RelativeToolTip": "ESABM\\Form7.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:44:47.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form4.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form4.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form4.cs",
+              "RelativeToolTip": "ESABM\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:44:11.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form6.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form6.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form6.cs",
+              "RelativeToolTip": "ESABM\\Form6.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:44:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form5.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form5.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form5.cs",
+              "RelativeToolTip": "ESABM\\Form5.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:44:22.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form2.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form2.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form2.cs",
+              "RelativeToolTip": "ESABM\\Form2.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:43:24.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form3.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form3.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form3.cs",
+              "RelativeToolTip": "ESABM\\Form3.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwAEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:43:48.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form1.cs",
+              "RelativeDocumentMoniker": "ESABM\\Form1.cs",
+              "ToolTip": "E:\\CODE\\C#\\Expense Splitter \u0026 Budget Manager\\ESABM\\ESABM\\Form1.cs",
+              "RelativeToolTip": "ESABM\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wDAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:43:05.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

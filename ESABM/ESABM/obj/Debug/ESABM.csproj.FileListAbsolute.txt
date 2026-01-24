@@ -1,0 +1,68 @@
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.exe.config
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.exe
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.pdb
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.AssemblyReference.cache
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form1.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Properties.Resources.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.SplashForm.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.GenerateResource.cache
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.CoreCompileInputs.cache
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.exe
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.pdb
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\Interop.WMPLib.dll
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\Interop.WMPLib.dll
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\AxInterop.WMPLib.dll
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.ResolveComReference.cache
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form2.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form3.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form4.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form5.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form6.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.exe.config
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.exe
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.pdb
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\Interop.WMPLib.dll
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\AxInterop.WMPLib.dll
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.AssemblyReference.cache
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\Interop.WMPLib.dll
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\AxInterop.WMPLib.dll
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.ResolveComReference.cache
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form1.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form2.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form3.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form4.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form5.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form6.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Properties.Resources.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.SplashForm.resources
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.GenerateResource.cache
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.CoreCompileInputs.cache
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.exe
+E:\Backup C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.pdb
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form7.resources
+E:\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form8.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.exe.config
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.exe
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\ESABM.pdb
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\Interop.WMPLib.dll
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\bin\Debug\AxInterop.WMPLib.dll
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.AssemblyReference.cache
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.exe.config
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\Interop.WMPLib.dll
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\AxInterop.WMPLib.dll
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.ResolveComReference.cache
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form1.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form2.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form3.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form4.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form5.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form6.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form7.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Form8.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.Properties.Resources.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.SplashForm.resources
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.GenerateResource.cache
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.csproj.CoreCompileInputs.cache
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.exe
+E:\CODE\C#\Expense Splitter & Budget Manager\ESABM\ESABM\obj\Debug\ESABM.pdb
