@@ -5,19 +5,19 @@ A C# Windows Forms application for managing expenses, splitting costs, and track
 ## Step 1: User Login
 <img width="618" height="356" alt="1" src="https://github.com/user-attachments/assets/10e82044-bb4f-4822-b8ce-2435fa05e598" />
 
-## Step 2: Main Dashboard
+## Step 2: Sign in to Account
 <img width="834" height="586" alt="2" src="https://github.com/user-attachments/assets/8cf37e62-b34e-4136-86ee-3e88dc8b932e" />
 
-## Step 3: Add New Expense
+## Step 3: Create new Account
 <img width="834" height="587" alt="3" src="https://github.com/user-attachments/assets/99a517b6-2ed5-4735-90be-7779abb175f3" />
 
-## Step 4: Split Expense Among Members
+## Step 4: Change Password
 <img width="833" height="584" alt="4" src="https://github.com/user-attachments/assets/914b6666-efc4-4863-a649-38775f11f207" />
 
-## Step 5: Budget Management
+## Step 5: Budget Management Dashboard
 <img width="1253" height="652" alt="5" src="https://github.com/user-attachments/assets/30508e21-e15c-4366-8dbe-e73d30e0df0b" />
 
-## Step 6: Expense History
+## Step 6: Monthly income setup
 <img width="782" height="411" alt="6" src="https://github.com/user-attachments/assets/b096281b-01d4-457d-adf5-8ef212500ba6" />
 
 ## Step 7: Category-wise Expense Tracking
