@@ -1,4 +1,3 @@
-<img width="1798" height="855" alt="image" src="https://github.com/user-attachments/assets/eff343aa-2040-4b73-b518-10c7a02cf209" /># Expense-Splitter-Budget-Manager
 A C# Windows Forms application for managing expenses, splitting costs, and tracking budgets with category-wise control and database integration.
 
 <img width="618" height="356" alt="1" src="https://github.com/user-attachments/assets/10e82044-bb4f-4822-b8ce-2435fa05e598" />
