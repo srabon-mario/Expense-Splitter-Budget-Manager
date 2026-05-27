@@ -30,6 +30,10 @@ A C# Windows Forms application for managing expenses, splitting costs, and track
 <img width="800" height="449" alt="9" src="https://github.com/user-attachments/assets/4b142bb6-610e-4826-a4e3-6437a40845e4" />
 
 
+## Project Summary
+
+Expense-Splitter-Budget-Manager is a C# Windows Forms application designed to simplify personal and group expense management. The system allows users to record daily expenses, split costs among multiple members, track budgets category-wise, and maintain organized financial records through database integration. The application provides an easy-to-use interface for monitoring expenses, managing budgets, and improving financial planning efficiently.
+
 
 
 
